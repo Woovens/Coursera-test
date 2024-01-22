@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="css/style.css">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Assignement solution for module 2</title>
+</head>
+<body>
+<h1>Our Menu</h1>
+
+<div class="row">
+	<div class="col-ld-4 col-md-6 col-sd-12"><div class="title1">Beef</div><p>Beef, flesh of mature cattle, as distinguished from veal, the flesh of calves. The best beef is obtained from early maturing, special beef breeds. High-quality beef has firm, velvety, fine-grained lean, bright red in colour and well-marbled. The fat is smooth, creamy white, and well distributed. In young beef the bones are soft, porous, and red; the less desirable mature beef has hard white bones. Beef tenderness and flavour are improved by aging; in one common aging method the carcass is hung for about two weeks at approximately 36 °F (2 °C), encouraging physical changes in the muscle tissue that enhance the quality of the meat.</p></div>
+	<div class="col-ld-4 col-md-6 col-sd-12"><div class="title2">Chicken</div><p>Similar to Chicken Tikka Masala, Butter Chicken is one of the most popular curries at any Indian restaurant around the world. Aromatic golden chicken pieces in an incredible creamy curry sauce, this Butter Chicken recipe is one of the best you will try! You will love how easy it is to make in the comfort of your own home, especially with garlic butter rice and fresh homemade Naan bread.</p></div>
+	<div class="col-ld-4 col-md-12 col-sd-12"><div class="title3">Sushi</div><p>Sushi rolls, or ‘makizushi’ in Japanese, are what most non-Japanese people think of when they think of sushi. Makizushi is made by wrapping up fillings in rice and nori seaweed. This recipe shows you how to make a basic makizushi roll, which can then be filled with whatever fillings you desire. Master the technique and get creative. Find all you need to make sushi rolls on our site.</p></div>
+</div>
+</body>
+</html>
